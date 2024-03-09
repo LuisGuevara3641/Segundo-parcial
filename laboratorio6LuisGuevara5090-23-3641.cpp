@@ -531,7 +531,7 @@ void peliculainfo()
     pelicula pelicula5("The Dark Knight", "Christopher Nolan", "Action/Crime", 2008);
 
     gotoxy(45, 1);
-    cout << "Estudiantes" << endl;
+    cout << "Peliculas" << endl;
 
     pelicula1.mostrarInfo();
     pelicula2.mostrarInfo();
