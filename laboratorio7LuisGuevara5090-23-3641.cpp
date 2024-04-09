@@ -57,7 +57,6 @@ public:
         cout << "_________________________________" 
             << "\nNombre: " << getNombre() 
             << "\nApellido: " << getApellido() 
-            << "\nOcupacion: " << getOcupacion() 
             << "\nEdad: " << getEdad()
             << "\nCarnet: " << numeroCarnet 
             << "\nPromedio: " << promedioCalificaciones 
